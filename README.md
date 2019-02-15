@@ -1,2 +1,2 @@
-# hello-world
+# Flower ConvNet
 Starting repository
